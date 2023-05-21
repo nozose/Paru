@@ -1,0 +1,10 @@
+name: Paru
+version: '${project.version}'
+main: com.paru.Paru
+api-version: 1.19
+commands:
+  스탯:
+    description: 스탯
+  기본템:
+    description: 기본템
+  

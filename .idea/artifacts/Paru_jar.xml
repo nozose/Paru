@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Paru:jar">
+    <output-path>$PROJECT_DIR$/../server/plugins</output-path>
+    <root id="archive" name="Paru.jar">
+      <element id="module-output" name="Paru" />
+    </root>
+  </artifact>
+</component>
